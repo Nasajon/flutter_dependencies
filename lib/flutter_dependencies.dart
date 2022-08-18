@@ -1,6 +1,7 @@
 library dependencies;
 
-export 'package:flutter_modular/flutter_modular.dart';
+export 'package:freezed_annotation/freezed_annotation.dart';
+export 'package:flutter_modular/flutter_modular.dart' hide Default;
 export 'package:flutter_localizations/flutter_localizations.dart';
 export 'package:equatable/equatable.dart';
 export 'package:dotted_border/dotted_border.dart';
