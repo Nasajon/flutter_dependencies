@@ -1,5 +1,6 @@
 library dependencies;
 
+export 'package:flutter_modular/flutter_modular.dart';
 export 'package:flutter_localizations/flutter_localizations.dart';
 export 'package:equatable/equatable.dart';
 export 'package:dotted_border/dotted_border.dart';
@@ -22,3 +23,4 @@ export 'package:provider/provider.dart' hide ErrorBuilder;
 export 'package:nsj_login/nsj_login.dart';
 export 'package:download/download.dart';
 export 'package:path_provider/path_provider.dart';
+export 'package:logger/logger.dart';
