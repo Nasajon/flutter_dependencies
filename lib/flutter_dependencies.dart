@@ -26,3 +26,4 @@ export 'package:nsj_login/nsj_login.dart';
 export 'package:download/download.dart';
 export 'package:path_provider/path_provider.dart';
 export 'package:logger/logger.dart';
+export 'package:flutter_dotenv/flutter_dotenv.dart';
