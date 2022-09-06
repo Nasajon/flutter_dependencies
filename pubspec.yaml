@@ -43,6 +43,7 @@ dependencies:
   download: ^0.0.1+1
   path_provider: ^2.0.11
   dartz: ^0.10.1
+  slang: ^2.7.0
 
 dev_dependencies:
   flutter_test:
