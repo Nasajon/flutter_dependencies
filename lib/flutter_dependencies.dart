@@ -27,3 +27,4 @@ export 'package:download/download.dart';
 export 'package:path_provider/path_provider.dart';
 export 'package:logger/logger.dart';
 export 'package:flutter_dotenv/flutter_dotenv.dart';
+export 'package:dartz/dartz.dart' show Either, Right, Left, Unit, unit;

@@ -42,6 +42,7 @@ dependencies:
       path: nsj_login
   download: ^0.0.1+1
   path_provider: ^2.0.11
+  dartz: ^0.10.1
 
 dev_dependencies:
   flutter_test:
@@ -52,6 +53,7 @@ dev_dependencies:
   modular_test:
   freezed: ^2.1.0+1
   json_serializable: ^6.3.1
+  retrofit_generator: ^4.0.3
 
 # For information on the generic Dart part of this file, see the
 # following page: https://dart.dev/tools/pub/pubspec
