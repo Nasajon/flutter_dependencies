@@ -29,3 +29,4 @@ export 'package:logger/logger.dart';
 export 'package:flutter_dotenv/flutter_dotenv.dart';
 export 'package:dartz/dartz.dart' show Either, Right, Left, Unit, unit;
 export 'package:slang/slang.dart';
+export 'package:slang_flutter/slang_flutter.dart';
