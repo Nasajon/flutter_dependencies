@@ -31,3 +31,5 @@ export 'package:dartz/dartz.dart' show Either, Right, Left, Unit, unit;
 export 'package:slang/slang.dart';
 export 'package:slang_flutter/slang_flutter.dart';
 export 'package:retrofit/retrofit.dart';
+export 'package:lottie/lottie.dart';
+export 'package:auto_size_text/auto_size_text.dart';
