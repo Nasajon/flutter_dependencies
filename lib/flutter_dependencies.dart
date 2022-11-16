@@ -33,3 +33,4 @@ export 'package:slang_flutter/slang_flutter.dart';
 export 'package:retrofit/retrofit.dart';
 export 'package:lottie/lottie.dart';
 export 'package:auto_size_text/auto_size_text.dart';
+export 'package:mask_text_input_formatter/mask_text_input_formatter.dart';
