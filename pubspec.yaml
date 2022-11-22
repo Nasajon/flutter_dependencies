@@ -49,6 +49,7 @@ dependencies:
   slang: ^2.7.0
   slang_flutter: ^2.7.0
   currency_text_input_formatter: ^2.1.8
+  font_awesome_flutter: ^10.2.1
 
 dev_dependencies:
   flutter_test:
