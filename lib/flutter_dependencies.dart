@@ -1,5 +1,6 @@
 library dependencies;
 
+export 'package:json_annotation/json_annotation.dart';
 export 'package:freezed_annotation/freezed_annotation.dart';
 export 'package:flutter_modular/flutter_modular.dart' hide Default;
 export 'package:modular_interfaces/modular_interfaces.dart';
@@ -22,7 +23,6 @@ export 'package:mime_type/mime_type.dart';
 export 'package:badges/badges.dart';
 export 'package:loader_overlay/loader_overlay.dart';
 export 'package:provider/provider.dart' hide ErrorBuilder;
-export 'package:nsj_login/nsj_login.dart';
 export 'package:download/download.dart';
 export 'package:path_provider/path_provider.dart';
 export 'package:logger/logger.dart';
