@@ -33,5 +33,5 @@ export 'package:slang_flutter/slang_flutter.dart';
 export 'package:retrofit/retrofit.dart';
 export 'package:lottie/lottie.dart';
 export 'package:auto_size_text/auto_size_text.dart';
-export 'package:currency_text_input_formatter/currency_text_input_formatter.dart';
-export 'package:font_awesome_flutter/font_awesome_flutter.dart';
+// export 'package:currency_text_input_formatter/currency_text_input_formatter.dart';
+// export 'package:font_awesome_flutter/font_awesome_flutter.dart';
