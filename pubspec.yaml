@@ -47,6 +47,11 @@ dependencies:
   slang_flutter: ^2.7.0
   currency_text_input_formatter: ^2.1.8
   font_awesome_flutter: ^10.2.1
+  uuid: ^3.0.7
+  nsj_login:
+    git:
+      url: git@github.com:Nasajon/NasajonUI-Flutter-Login.git
+      path: nsj_login
 
 dev_dependencies:
   flutter_test:
